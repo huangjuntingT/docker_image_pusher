@@ -1,4 +1,3 @@
-
-secretflow/scql:latest
+secretflow/scql
 
 
