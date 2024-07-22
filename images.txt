@@ -1,3 +1,5 @@
-secretflow/scql
+alpine
+nginx
+secretflow/scql:latest
 
 
