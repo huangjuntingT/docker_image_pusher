@@ -1,2 +1,2 @@
-nginx
+
 secretflow/scql:latest
